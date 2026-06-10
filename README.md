@@ -208,8 +208,8 @@ Open either notebook and run all cells from top to bottom. The income_prediction
 ## About
 
 Built by **Esther Dankwah Affum**  
-BSc Mathematics, Second Class Upper — Kwame Nkrumah University of Science and Technology (KNUST)  
-Data Analyst — GCB Bank PLC | Accra, Ghana  
+BSc Mathematics — Kwame Nkrumah University of Science and Technology (KNUST)  
+Data Analyst | Accra, Ghana  
 AI Mentorship Programme — Agentic AI, Automation, and Machine Learning track
 
 Areas of interest: machine learning for financial inclusion, alternative credit scoring models, and data-driven decision-making in the Ghanaian banking sector.
